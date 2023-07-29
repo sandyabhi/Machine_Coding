@@ -1,0 +1,62 @@
+body {
+  background-color: whitesmoke;
+}
+
+.products {
+  margin: 20px;
+  padding: 0;
+  list-style-type: none;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+@media only screen and (max-width: 800px) {
+  .products {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .products {
+    grid-template-columns: 1fr;
+  }
+}
+
+.product__card {
+  height: 250px;
+  padding: 8px;
+  background-color: lightblue;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.product__card > img {
+  width: 100%;
+  height: 90%;
+  object-fit: cover;
+  margin-bottom: 3px;
+}
+
+.pagination {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  justify-content: center;
+}
+
+.pagination__selected {
+  padding: 30px;
+  background-color: slategray;
+}
+
+.pagination > span {
+  padding: 15px 20px;
+  cursor: pointer;
+  border: 0.5px solid black;
+}
+
+.pagination__diasble {
+  opacity: 0;
+}
