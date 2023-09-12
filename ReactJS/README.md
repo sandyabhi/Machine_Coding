@@ -19,7 +19,3 @@
 ### [DropDown](https://gf3pcp.csb.app/)
 
 ### [Tic Tac Toe](https://y25cqs.csb.app/)
-
-### --------------------------------- Vanilla JS ---------------------------------
-
-### [CountDown Timer](https://ynmgr7.csb.app)
