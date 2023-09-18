@@ -1,0 +1,22 @@
+body {
+  background-color: darkslategray;
+}
+
+.container {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.progress_container {
+  width: 300px;
+  background-color: #f0f0f0;
+}
+
+.progress_bar {
+  width: 0;
+  height: 20px;
+  background-color: #007bff;
+  transition: width 0.3s;
+}

@@ -20,10 +20,12 @@
 
 ### [Tic Tac Toe](https://y25cqs.csb.app/)
 
-### [TypeHead / AutoComplete Search]("https://77xsj4.csb.app/")
+### [TypeHead / AutoComplete Search](https://77xsj4.csb.app/)
 
 ### --------------------------------- Vanilla JS ---------------------------------
 
 ### [CountDown Timer](https://ynmgr7.csb.app)
 
 ### [Star Rating](https://j5w8ks.csb.app)
+
+### [Progress Bar](https://4wfmzf.csb.app/)
