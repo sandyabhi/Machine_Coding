@@ -1,0 +1,41 @@
+body {
+  background-color: slateblue;
+}
+
+main {
+  width: 500px;
+  margin: 40px auto 0 auto;
+}
+
+#searchInput {
+  padding: 10px;
+  font-size: 16px;
+  width: 100%;
+  outline-style: none;
+  border-radius: 5px;
+  border: 0.5px solid skyblue;
+}
+
+#suggestion-area {
+  background-color: white;
+  width: 100%;
+  border: 1px solid skyblue;
+  margin-top: 10px;
+  min-height: 100px;
+  padding: 10px;
+  position: relative;
+  list-style: none;
+  display: none;
+  height: 300px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.list {
+  padding: 5px;
+  font-size: 16px;
+}
+
+.list:hover {
+  background-color: lightblue;
+}
