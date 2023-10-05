@@ -39,3 +39,5 @@
 ### [Counter](https://t6pyqq.csb.app/)
 
 ### [DropDown](https://9gcdjs.csb.app/)
+
+### [Infinite Scroll](https://m9z9vd.csb.app/)
